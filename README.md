@@ -1,6 +1,6 @@
 # Hi there, I'm Jamiu! 👋
 
-![Banner Image](banner.jpg)
+![Banner Image](banner)
 
 ## About Me 🚀
 
@@ -38,7 +38,7 @@ I'm a passionate **Software Engineer** with experience in **HTML, CSS, Javascrip
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(www.linkedin.com/in/jamiu-olaniyan-abdulhakeem)
-- **[Twitter]**(https://x.com/sbm_jamiu)
+- [LinkedIn](www.linkedin.com/in/jamiu-olaniyan-abdulhakeem)
+- [Twitter](https://x.com/sbm_jamiu)
 
 
