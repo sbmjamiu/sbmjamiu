@@ -1,4 +1,4 @@
-# Hi there, I'm [Jamiu]! 👋
+# Hi there, I'm Jamiu! 👋
 
 ![Banner Image](banner.jpg)
 
